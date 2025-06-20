@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://www.psychologistkolkata.com.com/"
+baseURL = "https://www.psychologistkolkata.com/"
 # Title of your website (required).
 title = "Dr. Tanmoy Mitra (Clinical Psychologist Kolkata)"
 # Your theme name
