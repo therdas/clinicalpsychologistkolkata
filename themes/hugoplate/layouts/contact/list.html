@@ -1,0 +1,38 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+  <!-- google map -->
+  {{ with site.Params.google_map }}
+    {{ if .enable }}
+      <div
+        id="map"
+        style="height: 400px;"
+        data-latitude="{{ .map_latitude }}"
+        data-longitude="{{ .map_longitude }}"
+        data-marker="{{ .map_marker | relURL }}"
+        data-marker-name="{{ site.Title }}"></div>
+    {{ end }}
+  {{ end }}
+  <secion class="section">
+    <div class="container">
+      {{.Content}}
+    </div>
+  </secion>
+  <section class="section container">
+    {{range .Params.place }}
+    <div class=" grid grid-cols-[auto_300px] gap-4 grid-rows-1 p-12">
+      <div class="col-span-1 grid grid-cols-[24px_auto] items-center">
+        <h4 class="col-span-2"> {{.name}}</h4>
+        <span class="fa-solid fa-location-pin col-span-1 -mt-1"></span> <div class="col-span-1"> {{.address}}</div>
+        {{ if .timings}}
+           <span class="fa-solid fa-clock col-span-1 -mt-1"></span> <div> {{.timings}} </div>
+        {{ end }}
+        <span class="fa-solid fa-phone col-span-1  -mt-1"></span><div>{{.phone}}</div>
+      </div>
+      <div class="col-2 col-span-1">
+        <iframe src={{.embed}} style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+    </div>
+    {{end}}
+  </section>
+  
+{{ end }}

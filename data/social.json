@@ -1,0 +1,20 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/photo.php?fbid=349028835242026&set=a.309016399243270&type=3&rdid=BPUi98MKigOZvv65&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1ATkNqp8V6%2F"
+    },
+
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/in/dr-tanmoy-mitra-28a55349/"
+    },
+    {
+      "name": "Made with <3 by trd",
+      "icon": "fab fa-uncharted",
+      "link": "https://www.therdas.dev"
+    }
+  ]
+}

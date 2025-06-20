@@ -1,2 +1,13 @@
-/* DO NOT WRITE ANY STYLE IN THIS FILE */
-/* If you want to add your own styles, please write it in the `./assets/css/custom.css` file. */
+/* Add your own custom styles here */
+.yt-embed {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    margin-bottom: 2em;
+
+    iframe {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+    }
+}
