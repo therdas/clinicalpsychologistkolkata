@@ -1,7 +1,7 @@
 ---
 title: "Contact Dr. T. Mitra"
 meta_title: ""
-description: "Contact Page for Dr T Mitra, Clinical Psychologist Kolkata"
+description: "Contact Page for Dr T Mitra, Health Psychologist Kolkata"
 draft: false
 place: 
     - name: MEDICA Superspeciality Hospital

@@ -17,8 +17,8 @@ Third-party collection may have been performed if you choose to use any social f
 - [Google Analytics]()
     - [Google Tag Manager](https://support.google.com/tagmanager/answer/7157428)
     - [Google General Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
-We use these services to better your experience while visiting our site. If needed, please feel free to reach out to [admin@clinicalpsychologistkolkata.co.in](mailto:admin@clinicalpsychologistkolkata.co.in)
+We use these services to better your experience while visiting our site. If needed, please feel free to reach out to [admin@psychologistkolkata.com](mailto:admin@psychologistkolkata.com)
 
 #### Privacy Policy Changes
 
-We reserve the rights to change the associated website's contents and this policy at any time, subject to and limited by laws local to the place of provedence of the site in question. For any inquiries, please contact [admin@clinicalpsychologistkolkata.co.in](mailto:admin@clinicalpsychologistkolkata.co.in)
+We reserve the rights to change the associated website's contents and this policy at any time, subject to and limited by laws local to the place of provedence of the site in question. For any inquiries, please contact [admin@psychologistkolkata.comn](mailto:admin@psychologistkolkata.com)

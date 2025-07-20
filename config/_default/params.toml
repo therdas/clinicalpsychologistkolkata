@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Kolkata Clinical Psychologist"
+logo_text = "Kolkata Health Psychologist"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -62,8 +62,8 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Kolkata", "Clinical", "Psycologist", "Psycology", "Psychiatry", "Therapy", "Counselling", "Mental", "Health", "Mental Health", "Mental Illness", "Mental Disorders", "Therapist", "Behaviour", "Behavioural", "Sciences", "T Mitra", "Tanmoy Mitra", "Dr T Mitra", "Dr Tanmoy Mitra", "Doctor", "Dr", "Medica", "NIBS", "Manipal"]
-description = "Dr. Tanmoy Mitra | Clinical Psycologist, Kolkata"
+keywords = ["Kolkata", "Clinical", "Health", "Psycologist", "Psycology", "Psychiatry", "Therapy", "Counselling", "Mental", "Health", "Mental Health", "Mental Illness", "Mental Disorders", "Therapist", "Behaviour", "Behavioural", "Sciences", "T Mitra", "Tanmoy Mitra", "Dr T Mitra", "Dr Tanmoy Mitra", "Doctor", "Dr", "Medica", "NIBS", "Manipal"]
+description = "Dr. Tanmoy Mitra | Health Psycologist, Kolkata"
 author = "Dr. Tanmoy Mitra"
 image = "images/image-dr-t-mitra.jpg"
 
