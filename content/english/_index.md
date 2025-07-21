@@ -3,13 +3,13 @@
 banner:
   title: "Dr. Tanmoy Mitra"
   content: >
-    ## Health Psychologist 
+    ### Health Psychologist 
     
     Dr. Tanmoy Mitra is a consultant health psychologist working in the area of mental illness and health for more than 25 years.   
-    He completed his PhD (Calcutta University) in the area of treatment of psychiatric patients and his MS Fellowship (USA) in Biopsychology.  
+    He completed his PhD (Calcutta University) in the area of treatment of psychiatric patients and his MS Fellowship (USA) in Biopsychology.<br/>  
 
     
-    He worked at the Ohio State Medical Centre, USA for a few years and presently is a visiting Consultant of Psychology at the MEDICA Superspeciality Hospital and at the National Institute of Behavioural Sciences, Kolkata. <br/>
+    He worked at the Ohio State Medical Centre, USA for a few years and presently is a visiting Consultant of Psychology at the MEDICA Superspeciality Hospital and at the National Institute of Behavioural Sciences, Kolkata. <br/><br/>
     He often speaks on mental health issues on TV & radio, including hosting weekly talks on the YouTube channel 'Bengal Fusion' on topics of mental illness and health.
   image: "/images/image-dr-t-mitra.jpg"
   button:
